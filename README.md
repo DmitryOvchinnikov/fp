@@ -1,2 +1,2 @@
 # fp
-Functional Programming
+Functional Programming: study project
